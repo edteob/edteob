@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a Edna
-- 👀 I’m interested in Data Analytics
+- 👋 Olá, I’m a Edna
+- 👀 Estou interessada em me desenvolver na área de Analytics
 - 🌱 I’m currently learning Python and SQL
 
 
