@@ -46,7 +46,7 @@
 <!---
 - 👋 Olá, I’m a Edna
 - 👀 Estou interessada em me desenvolver na área de Analytics
-- 🌱 I’m currently learning Python and SQL
+
 
 
 <!---
