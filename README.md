@@ -1,24 +1,15 @@
 
-<h1 align="center">Olá 👋, Eu sou a Edna Gama</h1>
-<h3 align="center"> Sou apaixonada pela área de Dados</h3>
+🌱 Atualmente estou aprendendo..
+ETL - Processo de Extração, Transformação e Limpeza de dados com Pandas
+Análise de dados e Visualização : Exploração e comunicação de insights através de dados.
+Ferramentas e frameworks para Engenharia de Dados: Estudo de tecnologias voltadas para Engenharia
 
-- 🌱 Atualmente estou aprendendo **Excel, Power BI**
+🔭 Projetos em andamento:
+* Construir uma aplicação local em Python que se conecte a um banco de dados SQL Server
+* Visualização de Dados : Transformar dados em insights com Data Studio e Power BI 
 
-- 📫 Você me encontra através do email: **edna_1966@hotmail.com**
-
-- 📄 Segue o meu linkedin [www.linkedin.com/in/edna-teobaldo](www.linkedin.com/in/edna-teobaldo)
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/edna-teobaldo " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in -alt.svg" alt="www.linkedin.com/in/edna-teobaldo" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/ logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target=" _blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40 " height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent .com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https:// www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt= "python" width="40" 
-
-
-
-
+🎯 Objetivo
+Me desenvolver na área de Dados 
 
 
 
