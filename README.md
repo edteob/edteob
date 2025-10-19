@@ -1,7 +1,7 @@
 
 🌱 Migrando da área de Analista de BI para Engenheira de Dados 
 
-Atuando como Engenheira de Dados vi a necessidade de consolidar alguns conhecimentos que serão apresentados nesse Perfil.
+Atuando como Engenheira de Dados verifiquei a necessidade de consolidar alguns conhecimentos que serão apresentados nesse Perfil.
 
 1- ETL - Processo de Extração, Transformação e Limpeza de dados com Pandas
 Análise de dados e Visualização : Exploração e comunicação de insights através de dados.
