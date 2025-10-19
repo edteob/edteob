@@ -1,7 +1,9 @@
 
-🌱 Atualmente estou aprendendo..
+🌱 Migrando da área de Analista de BI para Engenheira de Dados 
 
-ETL - Processo de Extração, Transformação e Limpeza de dados com Pandas
+Atuando como Engenheira de Dados vi a necessidade de consolidar alguns conhecimentos que serão apresentados nesse Perfil.
+
+1- ETL - Processo de Extração, Transformação e Limpeza de dados com Pandas
 Análise de dados e Visualização : Exploração e comunicação de insights através de dados.
 Ferramentas e frameworks para Engenharia de Dados: Estudo de tecnologias voltadas para Engenharia
 
@@ -11,6 +13,11 @@ Ferramentas e frameworks para Engenharia de Dados: Estudo de tecnologias voltada
 
 🎯 Objetivo
 Me desenvolver na área de Dados 
+
+2- Entender a POO - Programação Orientada a Objetos 
+- Curso da DSA - construção do Mini Projeto2
+  * Classes
+  * Objetos 
 
 
 
